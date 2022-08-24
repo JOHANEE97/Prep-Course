@@ -243,7 +243,8 @@ function doWhile(numero) {
   while(aux < 9)
 return acc;
 }
-//para pushear a git hub
+//para pushear a git hub primero git status luego git add y luego git status para valdiar luego 
+// luego git -m "resolucion tarea", y leugo git push para que cargue en la pagina .
 
 // No modificar nada debajo de esta línea
 // --------------------------------
